@@ -1,73 +1,45 @@
-/* Reset básico */
-* {
+body {
+    color: #333;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
-
-/* Estilo del cuerpo */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #333;
-    padding: 20px;
-}
-
-/* Encabezado */
-header {
-    background-color: #333;
+  }
+  
+  #cabecera {
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
-    padding: 20px 0;
-    text-align: center;
-}
-
-header h1 {
-    margin-bottom: 10px;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
     font-weight: bold;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
-}
-
-/* Secciones principales */
-main {
-    margin: 20px 0;
-}
-
-main section {
-    background-color: white;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-main section h2 {
-    margin-bottom: 10px;
-}
-
-/* Pie de página */
-footer {
-    background-color: #333;
+    margin: 0;
+    padding: 0.5em;
+  }
+  
+  #cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+  }
+  
+  #container {
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+  }
+  #container h1 {
+    font-size: 20px;
+  }
+  
+  #post {
+    padding: 1em;
+  }
+  
+  #footer {
+    background: #777;
     color: white;
     text-align: center;
-    padding: 10px 0;
-    margin-top: 20px;
-}
+    padding: 0.5em;
+  }
