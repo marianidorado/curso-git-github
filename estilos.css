@@ -45,29 +45,3 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
 }
-
-/* Secciones principales */
-main {
-    margin: 20px 0;
-}
-
-main section {
-    background-color: white;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-main section h2 {
-    margin-bottom: 10px;
-}
-
-/* Pie de página */
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
-    margin-top: 20px;
-}
