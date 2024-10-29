@@ -9,3 +9,4 @@ Este me sirve de repaso para estudiar git y github
 * Trucos locos
 * Creado por la increible instructora
 * Incluye varios ejemplos
+* Disponible para todas las edades
