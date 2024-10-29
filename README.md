@@ -8,3 +8,4 @@ Este me sirve de repaso para estudiar git y github
 * El verdadero amor por las buenas prácticas
 * Trucos locos
 * Creado por la increible instructora
+* Incluye varios ejemplos
